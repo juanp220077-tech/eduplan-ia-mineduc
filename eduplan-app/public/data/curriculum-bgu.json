@@ -1,0 +1,2926 @@
+[
+  {
+    "id": "inicial",
+    "name": "Educación Inicial (3 a 5 años)",
+    "subjects": [
+      {
+        "id": "inicial-identidad-autonomia",
+        "name": "Ámbito: Identidad y Autonomía",
+        "topics": [
+          {
+            "id": "top-identidad",
+            "name": "Eje: Desarrollo Personal y Social",
+            "dcds": [
+              {
+                "code": "EI.IA.1",
+                "description": "Comunicar algunos datos de su identidad como nombre, apellido, edad y nombres de los padres.",
+                "indicator": "I.EI.IA.1 Comunica sus datos personales con claridad.",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EI.IA.2",
+                "description": "Demostrar curiosidad por las características físicas de las personas de su entorno familiar y escolar.",
+                "indicator": "I.EI.IA.2 Reconoce rasgos propios y de sus pares.",
+                "insertions": [
+                  "EIS",
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.IA.3",
+                "description": "Practicar hábitos de orden ubicando los objetos y juguetes en el lugar correspondiente.",
+                "indicator": "I.EI.IA.3 Participa autónomamente en rutinas de orden y aseo.",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.IA.4",
+                "description": "Lavarse las manos, cara y dientes con autonomía siguiendo la secuencia correcta.",
+                "indicator": "I.EI.IA.4 Ejecuta hábitos de higiene personal sin asistencia directa.",
+                "insertions": [
+                  "EIS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-convivencia",
+        "name": "Ámbito: Convivencia",
+        "topics": [
+          {
+            "id": "top-convivencia",
+            "name": "Eje: Desarrollo Personal y Social",
+            "dcds": [
+              {
+                "code": "EI.CV.1",
+                "description": "Participar en juegos grupales siguiendo las reglas y respetando el turno de sus compañeros.",
+                "indicator": "I.EI.CV.1 Se integra armónicamente en actividades colectivas.",
+                "insertions": [
+                  "CS",
+                  "EVR"
+                ]
+              },
+              {
+                "code": "EI.CV.2",
+                "description": "Demostrar preferencia por jugar con un niño o niña en específico manteniendo relaciones cordiales.",
+                "indicator": "I.EI.CV.2 Establece vínculos afectivos con pares.",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EI.CV.3",
+                "description": "Reconocer a los miembros de su familia e interactuar de forma respetuosa.",
+                "indicator": "I.EI.CV.3 Identifica los roles de los integrantes de su núcleo familiar.",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-medio-natural",
+        "name": "Ámbito: Relaciones con el Medio Natural y Cultural",
+        "topics": [
+          {
+            "id": "top-medio-natural",
+            "name": "Eje: Descubrimiento del Medio Natural y Cultural",
+            "dcds": [
+              {
+                "code": "EI.RN.1",
+                "description": "Diferenciar entre seres vivos y elementos inertes a través de la exploración sensorial.",
+                "indicator": "I.EI.RN.1 Identifica características básicas de seres vivos en su entorno.",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "EI.RN.2",
+                "description": "Reconocer los alimentos nutritivos y no nutritivos identificando los beneficios de una dieta sana.",
+                "indicator": "I.EI.RN.2 Discrimina alimentos saludables.",
+                "insertions": [
+                  "EIS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "EI.RN.3",
+                "description": "Participar en prácticas de cuidado y protección de plantas y animales domésticos.",
+                "indicator": "I.EI.RN.3 Manifiesta conductas de protección ambiental escolar.",
+                "insertions": [
+                  "EDS",
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-logico-matematico",
+        "name": "Ámbito: Relaciones Lógico-Matemáticas",
+        "topics": [
+          {
+            "id": "top-logico",
+            "name": "Eje: Descubrimiento del Medio Natural y Cultural",
+            "dcds": [
+              {
+                "code": "EI.RLM.1",
+                "description": "Ordenar secuencias temporales sencillas con nociones antes, ahora y después.",
+                "indicator": "I.EI.RLM.1 Ubica acontecimientos en orden temporal.",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.RLM.2",
+                "description": "Reconocer colores primarios y secundarios en elementos del entorno y material didáctico.",
+                "indicator": "I.EI.RLM.2 Clasifica objetos por color, forma y tamaño.",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.RLM.3",
+                "description": "Contar colecciones de objetos del 1 al 10 en situaciones lúdicas cotidianas.",
+                "indicator": "I.EI.RLM.3 Comprende la noción de cantidad hasta 10.",
+                "insertions": [
+                  "EF"
+                ]
+              },
+              {
+                "code": "EI.RLM.4",
+                "description": "Identificar nociones espaciales básicas: arriba/abajo, dentro/fuera, cerca/lejos.",
+                "indicator": "I.EI.RLM.4 Ubica su cuerpo y objetos en el espacio tridimensional.",
+                "insertions": [
+                  "EVR"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-lenguaje",
+        "name": "Ámbito: Comprensión y Expresión del Lenguaje",
+        "topics": [
+          {
+            "id": "top-lenguaje",
+            "name": "Eje: Expresión y Comunicación",
+            "dcds": [
+              {
+                "code": "EI.LL.1",
+                "description": "Comunicarse mediante oraciones sencillas expresando ideas, emociones y necesidades.",
+                "indicator": "I.EI.LL.1 Expresa pensamientos utilizando vocabulario comprensible.",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EI.LL.2",
+                "description": "Responder a preguntas sobre la trama y personajes principales de un cuento infantil escuchado.",
+                "indicator": "I.EI.LL.2 Demuestra comprensión auditiva de narraciones orales.",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.LL.3",
+                "description": "Realizar trazos libres y guiados explorando pinza digital y prensión del instrumento gráfico.",
+                "indicator": "I.EI.LL.3 Desarrolla patrones grafomotores preparatorios.",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-arte",
+        "name": "Ámbito: Expresión Artística",
+        "topics": [
+          {
+            "id": "top-arte",
+            "name": "Eje: Expresión y Comunicación",
+            "dcds": [
+              {
+                "code": "EI.EA.1",
+                "description": "Participar en rondas, cantos y ritmos corporales coordinando movimientos simples.",
+                "indicator": "I.EI.EA.1 Sigue ritmos sonoros con esquemas motores.",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.EA.2",
+                "description": "Experimentar con técnicas grafoplásticas diversas: trozado, rasgado, dactilopintura y modelado.",
+                "indicator": "I.EI.EA.2 Aplica técnicas artísticas desarrollando la creatividad.",
+                "insertions": [
+                  "CS",
+                  "EDS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "inicial-corporal-motriz",
+        "name": "Ámbito: Expresión Corporal y Motricidad",
+        "topics": [
+          {
+            "id": "top-motriz",
+            "name": "Eje: Expresión y Comunicación",
+            "dcds": [
+              {
+                "code": "EI.ECM.1",
+                "description": "Realizar ejercicios de equilibrio dinámico: caminar en línea recta, saltar en un pie y subir gradas.",
+                "indicator": "I.EI.ECM.1 Domina el control postural en desplazamientos.",
+                "insertions": [
+                  "EVR",
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.ECM.2",
+                "description": "Coordinar óculo-visomanual en actividades de ensartado, enhebrado y apilamiento.",
+                "indicator": "I.EI.ECM.2 Evidencia coordinación visomotriz fina.",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "preparatoria",
+    "name": "Básica Preparatoria (1.° EGB)",
+    "subjects": [
+      {
+        "id": "preparatoria-ciencias-naturales",
+        "name": "Ciencias Naturales",
+        "topics": [
+          {
+            "id": "preparatoria-ciencias-naturales-bloque",
+            "name": "Materia viva y entorno físico",
+            "dcds": [
+              {
+                "code": "CN.1.1.1",
+                "description": "Explorar y describir las partes principales de su cuerpo y su funciona- miento, en forma global y parcial, y dife- renciarlas con respecto a aquellas de las personas que le rodean.",
+                "indicator": "Indicador oficial evaluable para [CN.1.1.1].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.1.3.1",
+                "description": "Observar y diferenciar entre los seres vivos y la materia inerte natural y la creada por las personas del entorno.",
+                "indicator": "Indicador oficial evaluable para [CN.1.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.1.3.7",
+                "description": "Experimentar e identificar las propiedades físicas de los objetos y agru- parlos según sus características.",
+                "indicator": "Indicador oficial evaluable para [CN.1.3.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.1.3.13",
+                "description": "Observar, en forma guiada, y describir las características y los cam- bios del tiempo atmosférico local, medir los cambios, mediante instrumentos de fácil manejo y registrarlos con símbolos.",
+                "indicator": "Indicador oficial evaluable para [CN.1.3.13].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-ciencias-sociales",
+        "name": "Estudios Sociales",
+        "topics": [
+          {
+            "id": "preparatoria-ciencias-sociales-bloque",
+            "name": "Historia, Espacio y Convivencia",
+            "dcds": [
+              {
+                "code": "CS.1.1.7",
+                "description": "Practicar hábitos de alimenta- ción, higiene y cuidado personal con au- tonomía.",
+                "indicator": "Indicador oficial evaluable para [CS.1.1.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.1.2.4",
+                "description": "Discriminar modelos positivos y negativos de comportamiento de su me- dio natural y social inmediato.",
+                "indicator": "Indicador oficial evaluable para [CS.1.2.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.1.2.13",
+                "description": "Reconocer que los derechos de las personas se mantienen vigentes inclu- so si abandonan su lugar de origen.",
+                "indicator": "Indicador oficial evaluable para [CS.1.2.13].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CS.1.3.7",
+                "description": "Identificar alguna de las mani- festaciones culturales (música, comida, festividades y tradición oral) de la loca- lidad.",
+                "indicator": "Indicador oficial evaluable para [CS.1.3.7].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-matematica",
+        "name": "Matemática",
+        "topics": [
+          {
+            "id": "preparatoria-matematica-bloque",
+            "name": "Álgebra, Geometría y Estadística",
+            "dcds": [
+              {
+                "code": "M.1.4.1",
+                "description": "Reconocer los colores primarios: rojo, amarillo y azul; los colores blanco y negro y los colores secundarios, en obje- tos del entorno.",
+                "indicator": "Indicador oficial evaluable para [M.1.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.1.4.13",
+                "description": "Contar colecciones de objetos en el círculo del 1 al 20 en circunstancias de la cotidianidad.",
+                "indicator": "Indicador oficial evaluable para [M.1.4.13].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.1.4.32",
+                "description": "Discriminar temperaturas entre objetos del entorno (frío/caliente).",
+                "indicator": "Indicador oficial evaluable para [M.1.4.32].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-ingles",
+        "name": "Lengua Extranjera (Inglés)",
+        "topics": [
+          {
+            "id": "preparatoria-ingles-bloque",
+            "name": "Communication and Literacy",
+            "dcds": [
+              {
+                "code": "EFL.1.4.1",
+                "description": "Identify the numbers 0-9 when counting different objects in class.",
+                "indicator": "Indicador oficial evaluable para [EFL.1.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-lengua",
+        "name": "Lengua y Literatura",
+        "topics": [
+          {
+            "id": "preparatoria-lengua-bloque",
+            "name": "Lectura, Escritura y Comunicación",
+            "dcds": [
+              {
+                "code": "LL.1.5.1",
+                "description": "Predecir el contenido y el uso de diversos textos escritos, que se utilizan en actividades cotidianas del entorno esco- lar y familiar.",
+                "indicator": "Indicador oficial evaluable para [LL.1.5.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.1.5.16",
+                "description": "Explorar la formación de pala- bras y oraciones, utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica).",
+                "indicator": "Indicador oficial evaluable para [LL.1.5.16].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-general",
+        "name": "Área Integrada",
+        "topics": [
+          {
+            "id": "preparatoria-general-bloque",
+            "name": "Desarrollo de Destrezas",
+            "dcds": [
+              {
+                "code": "ELL.1.5.24",
+                "description": "Expresar oralmente la nece- sidad de contribuir a reducir el impacto ambiental incentivando a la familia a usar medios de transporte sostenible como la bicicleta, scooters, patinetes, transporte público, tranvías, metros y, caminar.",
+                "indicator": "Indicador oficial evaluable para [ELL.1.5.24].",
+                "insertions": [
+                  "EDS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-arte",
+        "name": "Educación Cultural y Artística",
+        "topics": [
+          {
+            "id": "preparatoria-arte-bloque",
+            "name": "Expresión Artística y Patrimonio",
+            "dcds": [
+              {
+                "code": "ECA.1.6.2",
+                "description": "Utilizar la expresión gráfica o plástica como recursos para la expresión libre del yo y de la historia personal de cada uno. (En Educación Cultural y Artística ECA.1.1.4.)",
+                "indicator": "Indicador oficial evaluable para [ECA.1.6.2].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "ECA.1.6.4",
+                "description": "Expresar las ideas y emociones que suscita la observación de algunas manifestaciones culturales y artísticas (rituales, actos festivos, danzas, cono- cimientos y prácticas relativos a la na- turaleza, artesanía, etc.) presentes en el entorno próximo. (En Educación Cultural y Artística ECA.1.3.2.)",
+                "indicator": "Indicador oficial evaluable para [ECA.1.6.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.1.1.1",
+                "description": "Practicar juegos sensoriomoto- res y expresar las emociones que estos suscitan a través de acciones y movi- mientos corporales. Participa activamente en la realización de juegos sensoriomotores. (Ref.",
+                "indicator": "Indicador oficial evaluable para [ECA.1.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.1.2.1",
+                "description": "Participar en situaciones de juego dramático para situarse, narrar- se y ponerse en el lugar del otro; contar historias con el otro y jugar a ser otras personas. Establece relaciones empáticas con sus compañeros y los adultos que eventual- mente participan en la realización de actividades artísticas colectivas. (Ref.",
+                "indicator": "Indicador oficial evaluable para [ECA.1.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "preparatoria-educacion-fisica",
+        "name": "Educación Física",
+        "topics": [
+          {
+            "id": "preparatoria-educacion-fisica-bloque",
+            "name": "Prácticas Corporales y Salud",
+            "dcds": [
+              {
+                "code": "EF.1.7.1",
+                "description": "Reconocer estados de ánimo, sensaciones y emociones (alegría, triste- za, aburrimiento, enojo, frío, calor, entre otras.) para crear, expresar y comunicar mensajes corporales (gestuales conven- cionales y/o espontáneos). (En Educación Física EF.1.3.1.).",
+                "indicator": "Indicador oficial evaluable para [EF.1.7.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.1.7.6",
+                "description": "Establecer acuerdos con otros que les permitan participar en prácticas corporales expresivo-comunicativas. (En Educación Física EF.1.3.6.). Establece acuerdos colectivos que fa- vorezcan la participación en diferentes prácticas corporales expresivo-comuni- cativas. (Ref.I.EF.1.1.3.)",
+                "indicator": "Indicador oficial evaluable para [EF.1.7.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.1.1.2",
+                "description": "Comprender la necesidad de re- glas y roles para poder jugar con otros, estableciendo y respetando acuerdos simples con sus pares. Comprende la necesidad de respetar re- glas, roles y acuerdos simples para su participación en diferentes juegos. (Re- f.I.EF.1.1.2.)",
+                "indicator": "Indicador oficial evaluable para [EF.1.1.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.1.3.1",
+                "description": "Reconocer estados de ánimo, sensaciones y emociones (alegría, triste- za, aburrimiento, enojo, frío, calor, entre otras) para crear, expresar y comunicar mensajes corporales (gestuales conven- cionales y/o espontáneos). Reconoce sus estados corporales y de ánimo, sus posibilidades de interpreta- ción y traducción de mensajes corporales propios y de pares a otros lenguajes. (Ref.",
+                "indicator": "Indicador oficial evaluable para [EF.1.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elemental",
+    "name": "Básica Elemental (2.°, 3.° y 4.° EGB)",
+    "subjects": [
+      {
+        "id": "elemental-lengua",
+        "name": "Lengua y Literatura",
+        "topics": [
+          {
+            "id": "elemental-lengua-bloque",
+            "name": "Lectura, Escritura y Comunicación",
+            "dcds": [
+              {
+                "code": "LL.2.1.1",
+                "description": "Distinguir la intención comunicativa (persuadir, expresar emociones, informar, requerir, etc.) que tienen diversos textos de uso cotidiano desde el análisis del propósito de su contenido.",
+                "indicator": "Indicador oficial evaluable para [LL.2.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.2.2.4",
+                "description": "Reflexionar sobre la expresión oral con uso de la conciencia lingüística (léxica, semántica y sintáctica) en contex- tos cotidianos.",
+                "indicator": "Indicador oficial evaluable para [LL.2.2.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.2.4.2",
+                "description": "Aplicar estrategias de pensa- miento (ampliación de ideas, secuencia lógica, selección, ordenación y jerarquiza- ción de ideas, uso de organizadores gráfi- cos, entre otras) en la escritura de relatos de experiencias personales, hechos coti- dianos u otros sucesos y acontecimientos de interés, y en las descripciones de obje- tos, animales, lugares y personas, durante la autoevaluación de sus escritos. Aplica el proceso de escritura en la pro- ducción de textos descriptivos (de objetos, animales, lugares y personas), usando es- trategias y procesos de pensamiento (am- pliación de ideas, secuencia lógica, selec- ción ordenación y jerarquización de ideas; organizadores gráficos, entre otros), en las situaciones comunicativas que lo requie- ran. (Ref.I.LL.2.8.2.) (J.2., I.3.)",
+                "indicator": "Indicador oficial evaluable para [LL.2.4.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.2.5.2",
+                "description": "Escuchar y leer diversos géne- ros literarios (privilegiando textos ecuato- rianos, populares y de autor), para desa- rrollar preferencias en el gusto literario y generar autonomía en la lectura.",
+                "indicator": "Indicador oficial evaluable para [LL.2.5.2].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-ciencias-naturales",
+        "name": "Ciencias Naturales",
+        "topics": [
+          {
+            "id": "elemental-ciencias-naturales-bloque",
+            "name": "Materia viva y entorno físico",
+            "dcds": [
+              {
+                "code": "CN.2.1.1",
+                "description": "Observar las etapas del ciclo vital del ser humano y registrar gráficamente los cambios de acuerdo a la edad.",
+                "indicator": "Indicador oficial evaluable para [CN.2.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.2.1.9",
+                "description": "Indagar, con uso de las TIC y otros recursos, la diversidad e importan- cia de los vertebrados y las plantas con semillas de las regiones naturales de Ecuador; identificar acciones de protec- ción y cuidado.",
+                "indicator": "Indicador oficial evaluable para [CN.2.1.9].",
+                "insertions": [
+                  "EIS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.2.2.1",
+                "description": "Ubicar el cerebro, el corazón, los pulmones y el estómago en su cuerpo, ex- plicar sus funciones y relacionarlas con el mantenimiento de la vida.",
+                "indicator": "Indicador oficial evaluable para [CN.2.2.1].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.2.3.1",
+                "description": "Observar y describir los estados físicos de los objetos del entorno y dife- renciarlos, por sus características físicas, en sólidos, líquidos y gaseosos.",
+                "indicator": "Indicador oficial evaluable para [CN.2.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.2.3.9",
+                "description": "Explorar e identificar la energía, sus formas y fuentes en la naturaleza; compararlas y explicar su importancia para la vida, para el movimiento de los cuerpos y para la realización de todo tipo de trabajos.",
+                "indicator": "Indicador oficial evaluable para [CN.2.3.9].",
+                "insertions": [
+                  "EIS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.2.4.1",
+                "description": "Observar y reconocer el ciclo diario en los seres vivos y el ambiente y formular preguntas sobre los animales que realizan sus actividades durante la noche y durante el día.",
+                "indicator": "Indicador oficial evaluable para [CN.2.4.1].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.2.5.5",
+                "description": "Indagar, en forma guiada me- diante el uso de las TIC y otros recursos, sobre el desarrollo tecnológico de instru- mentos para la observación astronómica; comunicar y reconocer los aportes de la ciencia y la tecnología para el conoci- miento del Universo.",
+                "indicator": "Indicador oficial evaluable para [CN.2.5.5].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.2.5.8",
+                "description": "Indagar y explicar, por medio de modelos, la aplicación de tecnologías limpias en el manejo del agua para con- sumo humano; comunicar las medidas de prevención para evitar su contaminación.",
+                "indicator": "Indicador oficial evaluable para [CN.2.5.8].",
+                "insertions": [
+                  "CS",
+                  "EDS",
+                  "EVR"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-ciencias-sociales",
+        "name": "Estudios Sociales",
+        "topics": [
+          {
+            "id": "elemental-ciencias-sociales-bloque",
+            "name": "Historia, Espacio y Convivencia",
+            "dcds": [
+              {
+                "code": "CS.2.1.1",
+                "description": "Reconocer a la familia como espacio primigenio de comunidad y nú- cleo de la sociedad, constituida como un sistema abierto, donde sus miembros se interrelacionan y están unidos por lazos de parentesco, solidaridad, afinidad, ne- cesidad y amor; apoyándose mutuamente para subsistir, concibiéndose como seres únicos e irrepetibles.",
+                "indicator": "Indicador oficial evaluable para [CS.2.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.2.2.3",
+                "description": "Identificar los posibles riesgos que pueden presentarse en la vivienda para prevenirlos y salvaguardar la segu- ridad en el hogar.",
+                "indicator": "Indicador oficial evaluable para [CS.2.2.3].",
+                "insertions": [
+                  "EVR"
+                ]
+              },
+              {
+                "code": "CS.2.3.14",
+                "description": "Describir los derechos y obli- gaciones de los usuarios de medios de transporte sostenible para comprender y valorar su contribución a un entorno más seguro y saludable.",
+                "indicator": "Indicador oficial evaluable para [CS.2.3.14].",
+                "insertions": [
+                  "EIS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CS.2.1.10",
+                "description": "Localizar y apreciar el patrimo- nio natural y cultural de la localidad, pa- rroquia, cantón, provincia y país, mediante la identificación de sus características y el reconocimiento de la necesidad social de su cuidado y conservación.",
+                "indicator": "Indicador oficial evaluable para [CS.2.1.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.2.2.7",
+                "description": "Describir la división político-admi- nistrativa de la localidad, comunidad, parro- quia, cantón y provincia, relacionándola con la construcción de la identidad local y sus valores específicos.",
+                "indicator": "Indicador oficial evaluable para [CS.2.2.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.2.2.13",
+                "description": "Examinar y describir accio- nes para prevenir desastres tomando en cuenta los accidentes geográficos, las condiciones y ubicación de la vivienda y sus instalaciones.",
+                "indicator": "Indicador oficial evaluable para [CS.2.2.13].",
+                "insertions": [
+                  "EVR"
+                ]
+              },
+              {
+                "code": "CS.2.2.16",
+                "description": "Explicar y apreciar la mega- diversidad del Ecuador, a través de la identificación de sus límites, regiones na- turales, provincias, su flora y fauna más representativa.",
+                "indicator": "Indicador oficial evaluable para [CS.2.2.16].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CS.2.3.10",
+                "description": "Examinar las cualidades y los valores humanos que nos hacen valiosos como ecuatorianos.",
+                "indicator": "Indicador oficial evaluable para [CS.2.3.10].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-arte",
+        "name": "Educación Cultural y Artística",
+        "topics": [
+          {
+            "id": "elemental-arte-bloque",
+            "name": "Expresión Artística y Patrimonio",
+            "dcds": [
+              {
+                "code": "ECA.2.1.1",
+                "description": "Experimentar con las posibili- dades del color y del gesto espontáneo al plasmar la silueta del cuerpo, y las huellas de las manos y los pies sobre soportes di- versos (papel, cartón, cartulina), de dife- rentes medidas, y sirviéndose de distintos materiales (pintura, arcilla, plantas, etc.).",
+                "indicator": "Indicador oficial evaluable para [ECA.2.1.1].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "ECA.2.1.8",
+                "description": "Describir las características y las sensaciones que producen algunos elementos presentes en el entorno natu- ral (plantas, árboles, minerales, animales, agua, sonidos), como resultado de un pro- ceso de exploración sensorial.",
+                "indicator": "Indicador oficial evaluable para [ECA.2.1.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.2.2.2",
+                "description": "Practicar juegos rítmicos (rondas infantiles, juegos tradicionales e las distintas nacionalidades del Ecuador, juegos de manos, etc.) que posibiliten el desarrollo de diferentes habilidades mo- trices.",
+                "indicator": "Indicador oficial evaluable para [ECA.2.2.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.2.3.3",
+                "description": "Describir los elementos plásti- cos presentes en el entorno artificial (edi- ficios, mobiliario urbano, obras expuestas en las calles o los museos, etc.) utilizando un vocabulario adecuado.",
+                "indicator": "Indicador oficial evaluable para [ECA.2.3.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.2.3.16",
+                "description": "Indagar sobre los alimentos que forman una dieta tradicional, su for- ma de elaboración en épocas pasadas y su permanencia en el presente.",
+                "indicator": "Indicador oficial evaluable para [ECA.2.3.16].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-matematica",
+        "name": "Matemática",
+        "topics": [
+          {
+            "id": "elemental-matematica-bloque",
+            "name": "Álgebra, Geometría y Estadística",
+            "dcds": [
+              {
+                "code": "M.2.1.1",
+                "description": "Representar gráficamente conjun- tos y subconjuntos, discriminando las pro- piedades o atributos de los objetos.",
+                "indicator": "Indicador oficial evaluable para [M.2.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.2.1.12",
+                "description": "Representar, escribir y leer los números naturales del 0 al 9 999 en forma concreta, gráfica (en la semirrecta numé- rica) y simbólica.",
+                "indicator": "Indicador oficial evaluable para [M.2.1.12].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.2.1.33",
+                "description": "Resolver problemas relaciona- dos con la multiplicación y la división uti- lizando varias estrategias, e interpretar la solución dentro del contexto del problema.",
+                "indicator": "Indicador oficial evaluable para [M.2.1.33].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.2.2.7",
+                "description": "Reconocer líneas, rectas y curvas en figuras planas y cuerpos.",
+                "indicator": "Indicador oficial evaluable para [M.2.2.7].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "M.2.2.29",
+                "description": "Reconocer símbolos y termino- logías básicas relacionadas con el dinero; comprender su uso en situaciones cotidia- nas.",
+                "indicator": "Indicador oficial evaluable para [M.2.2.29].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-educacion-fisica",
+        "name": "Educación Física",
+        "topics": [
+          {
+            "id": "elemental-educacion-fisica-bloque",
+            "name": "Prácticas Corporales y Salud",
+            "dcds": [
+              {
+                "code": "EF.2.1.1",
+                "description": "Identificar las características, objetivos y roles de los participantes en diferentes tipos de juegos (de persecu- ción, de cooperación, de relevos, con elementos, populares, ancestrales, de percepción, entre otros) como elementos necesarios para mejorar el desempeño motriz en ellos.",
+                "indicator": "Indicador oficial evaluable para [EF.2.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.2.6.5",
+                "description": "Reconocer la importancia del cuidado de sí y de las demás personas, durante la participación en diferentes prácticas corporales para tomar las pre- cauciones necesarias en cada caso (hi- dratación y alimentación acorde a lo que cada práctica requiera).",
+                "indicator": "Indicador oficial evaluable para [EF.2.6.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.2.5.7",
+                "description": "Construir con pares acuerdos de cooperación y colaboración para partici- par colectivamente en diferentes prácti- cas corporales según las características del grupo.",
+                "indicator": "Indicador oficial evaluable para [EF.2.5.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.2.6.4",
+                "description": "Identificar posturas adecuadas y menos lesivas para evitar ponerse o po- ner en riesgo a sus compañeros, ante el deseo de mejorar el desempeño en dife- rentes prácticas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.2.6.4].",
+                "insertions": [
+                  "EVR"
+                ]
+              },
+              {
+                "code": "EF.2.3.9",
+                "description": "Construir con pares espacios de confianza que favorezcan la participación colectiva en diferentes prácticas corpora- les expresivo-comunicativas.",
+                "indicator": "Indicador oficial evaluable para [EF.2.3.9].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.2.3.7",
+                "description": "Reconocer el valor cultural de las danzas y sus características princi- pales (por ejemplo, coreografía y música) como producciones culturales de la pro- pia región y participar en ellas de modos placenteros.",
+                "indicator": "Indicador oficial evaluable para [EF.2.3.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.2.5.6",
+                "description": "Reconocer y comunicar mis condiciones, mis disposiciones y mis posibilidades (si me gusta la práctica, si conozco lo que debo hacer, el sentido de la diversión en la práctica, mis aptitudes, mis dificultades, entre otros) para poder participar con pares en diferentes prácti- cas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.2.5.6].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elemental-ingles",
+        "name": "Lengua Extranjera (Inglés)",
+        "topics": [
+          {
+            "id": "elemental-ingles-bloque",
+            "name": "Communication and Literacy",
+            "dcds": [
+              {
+                "code": "EFL.2.1.2",
+                "description": "Recognize the differences be- tween where people live among the re- gions of the country in order to appreciate their own environment. (Example: house/ apartment. Country/city, etc.) Learners can recognize differences be- tween where people live and write about their own surroundings, as well ask simple questions. (Ref. (I.EFL.2.1.1) (I.2, S.2)",
+                "indicator": "Indicador oficial evaluable para [EFL.2.1.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.1.10",
+                "description": "Recognize when to speak and when to listen while working in pairs or small groups in class by following class- room instructions and simple commands. Thread 2: Oral Communication",
+                "indicator": "Indicador oficial evaluable para [EFL.2.1.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.2.4",
+                "description": "Identify items of specific infor- mation within simple messages or from short and simple descriptions about fami- liar contexts, especially if visual support is provided. (Example: letters of the al- phabet, numbers, prices and times, days, dates and months, etc.) Learners can understand short and sim- ple spoken texts well enough to be able to pick out key items of information. (Re- f.I.EFL.2.7.1.)",
+                "indicator": "Indicador oficial evaluable para [EFL.2.2.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.2.12",
+                "description": "Respond to simple questions in quite a short time and initiate basic interaction spontaneously when there are opportunities to speak. Speech is produced a little less slowly and hesitantly. Learners can respond to simple questions using appropriate words, phrases, and short sentences. Responses may be slow though pauses do not make the interaction tedious or uncomfortable for participants. (Ref.I.EFL.2.9.2.) (I.3).",
+                "indicator": "Indicador oficial evaluable para [EFL.2.2.12].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.4.1",
+                "description": "Know how to spell simple Engli- sh words correctly, demonstrating aware- ness of sound-letter relationships. (Exam- ple: sea, mean, bee, etc.) EFL 2.4.2. Make a simple learning resour- ce, in order to record and practice new words. (Example: a picture dictionary, a word list, set of flashcards, etc.)",
+                "indicator": "Indicador oficial evaluable para [EFL.2.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.5.2",
+                "description": "Express emotions and feelings using basic adjectives and related images through written work on the school or class bulletin board.",
+                "indicator": "Indicador oficial evaluable para [EFL.2.5.2].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media",
+    "name": "Básica Media (5.°, 6.° y 7.° EGB)",
+    "subjects": [
+      {
+        "id": "media-lengua",
+        "name": "Lengua y Literatura",
+        "topics": [
+          {
+            "id": "media-lengua-bloque",
+            "name": "Lectura, Escritura y Comunicación",
+            "dcds": [
+              {
+                "code": "LL.3.1.1",
+                "description": "Participar en contextos y situa- ciones que evidencien la funcionalidad de la lengua escrita como herramienta cultural.",
+                "indicator": "Indicador oficial evaluable para [LL.3.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.3.3.13",
+                "description": "Analizar el impacto de la con- taminación por fuentes móviles, la conta- minación visual, y la promoción del uso de vehículos de cero emisiones y movilidad activa a partir de diversas fuentes de in- formación.",
+                "indicator": "Indicador oficial evaluable para [LL.3.3.13].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.3.4.7",
+                "description": "Usar estrategias y procesos de pensamiento que apoyen la escritura.",
+                "indicator": "Indicador oficial evaluable para [LL.3.4.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.3.5.1",
+                "description": "Reconocer en un texto literario los elementos característicos que le dan sentido.",
+                "indicator": "Indicador oficial evaluable para [LL.3.5.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-general",
+        "name": "Área Integrada",
+        "topics": [
+          {
+            "id": "media-general-bloque",
+            "name": "Desarrollo de Destrezas",
+            "dcds": [
+              {
+                "code": "L.3.3.1",
+                "description": "Establecer las relaciones explícitas entre los contenidos de dos o más textos, comparar y contrastar fuentes.",
+                "indicator": "Indicador oficial evaluable para [L.3.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-ciencias-naturales",
+        "name": "Ciencias Naturales",
+        "topics": [
+          {
+            "id": "media-ciencias-naturales-bloque",
+            "name": "Materia viva y entorno físico",
+            "dcds": [
+              {
+                "code": "CN.3.1.1",
+                "description": "Indagar, con uso de las TIC y otros recursos, las características de los animales invertebrados, describirlas y clasificarlos de acuerdo a sus semejanzas y diferencias.",
+                "indicator": "Indicador oficial evaluable para [CN.3.1.1].",
+                "insertions": [
+                  "CS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.3.1.9",
+                "description": "Indagar, con uso de las TIC y otros recursos, las características de los ecosistemas y sus clases, interpretar las interrelaciones de los seres vivos en los ecosistemas y clasificarlos en producto- res, consumidores y descomponedores.",
+                "indicator": "Indicador oficial evaluable para [CN.3.1.9].",
+                "insertions": [
+                  "CS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.3.5.5",
+                "description": "Planificar y realizar una in- dagación bibliográfica sobre el trabajo de los científicos en las Áreas Naturales Protegidas de Ecuador, y utilizar esa in- formación para establecer la importancia de la preservación y el cuidado de la bio- diversidad nativa.",
+                "indicator": "Indicador oficial evaluable para [CN.3.5.5].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.3.2.3",
+                "description": "Describir, con apoyo de modelos, la estructura y función de los sistemas di- gestivo, respiratorio, circulatorio y excre- tor y promover su cuidado.",
+                "indicator": "Indicador oficial evaluable para [CN.3.2.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.3.3.1",
+                "description": "Explorar y demostrar las propie- dades específicas de la materia, experi- mentar, probar las predicciones y comu- nicar los resultados.",
+                "indicator": "Indicador oficial evaluable para [CN.3.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.3.3.7",
+                "description": "Demostrar experimentalmente y diferenciar entre temperatura y calor, verificarlas por medición en varias sus- tancias y mediante el equilibrio térmico de los cuerpos.",
+                "indicator": "Indicador oficial evaluable para [CN.3.3.7].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.3.4.3",
+                "description": "Indagar, con uso de las TIC y otros recursos, sobre el sistema solar, describir algunos de sus componentes, usar modelos de simulación y explicar los eclipses de la Luna y el Sol.",
+                "indicator": "Indicador oficial evaluable para [CN.3.4.3].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.3.4.7",
+                "description": "Explicar, con apoyo de modelos, los patrones de incidencia de la radiación solar sobre la superficie terrestre y rela- cionar las variaciones de intensidad de la radiación solar con la ubicación geográ- fica.",
+                "indicator": "Indicador oficial evaluable para [CN.3.4.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.3.4.14",
+                "description": "Indagar e inferir las caracterís- ticas y efectos de las catástrofes climáti- cas y establecer las consecuencias en los seres vivos y sus hábitats.",
+                "indicator": "Indicador oficial evaluable para [CN.3.4.14].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-ciencias-sociales",
+        "name": "Estudios Sociales",
+        "topics": [
+          {
+            "id": "media-ciencias-sociales-bloque",
+            "name": "Historia, Espacio y Convivencia",
+            "dcds": [
+              {
+                "code": "CS.3.1.1",
+                "description": "Analizar el origen de los prime- ros pobladores del Ecuador, sus rutas de llegada, sus herramientas y formas de trabajo colectivo.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.9",
+                "description": "Identificar a los conquistadores españoles, su relación con los indígenas y sus conflictos con la Corona, el surgi- miento de los mestizos y la llegada de los negros esclavizados.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.9].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.19",
+                "description": "Identificar, al fin de la Colonia, los primeros esfuerzos por definir la iden- tidad del “país” en el marco de las contra- dicciones prevalecientes.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.19].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.29",
+                "description": "Explicar los alcances de la edu- cación y la cultura, así como la influencia de la Iglesia católica al inicio de la época republicana.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.29].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.37",
+                "description": "Explicar los principales esfuer- zos intelectuales que se dieron a fines del siglo XIX por entender el país y su identi- dad, precisando sus principales represen- tantes.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.37].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.48",
+                "description": "Analizar el proceso histórico entre 1925 a 1938, sus reformas estatales, la inestabilidad po- lítica y el surgimiento del velasquismo.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.48].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.58",
+                "description": "Comparar la década 1960-1970 con la subsiguiente 1970-1979, destacando el papel de las fuerzas armadas y los mo- vimientos sociales.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.58].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.1.66",
+                "description": "Examinar el compromiso que tie- ne la juventud en la construcción del Ecua- dor y la integración regional.",
+                "indicator": "Indicador oficial evaluable para [CS.3.1.66].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.2.7",
+                "description": "Localizar los recursos hídricos del Ecuador con sus principales ríos y cuencas de agua considerando su aprovechamiento para el desarrollo nacional.",
+                "indicator": "Indicador oficial evaluable para [CS.3.2.7].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CS.3.2.14",
+                "description": "Identificar los diversos procesos de inmigración al Ecuador, el origen de los inmigran- tes y su participación en la sociedad nacional, así como el impacto de la reciente migración al extranjero.",
+                "indicator": "Indicador oficial evaluable para [CS.3.2.14].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.2.19",
+                "description": "Establecer las ventajas y desven- tajas de la organización territorial del Ecua- dor en provincias, cantones, parroquias y regiones transversales, considerando su utilidad para el desarrollo nacional.",
+                "indicator": "Indicador oficial evaluable para [CS.3.2.19].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.3.3.1",
+                "description": "Analizar las acciones y omisiones que provocan daños al ambiente y desarro- llar una cultura de respeto con propuestas creativas y eficaces.",
+                "indicator": "Indicador oficial evaluable para [CS.3.3.1].",
+                "insertions": [
+                  "CS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CS.3.3.17",
+                "description": "Identificar los principios de los sistemas alimentarios sostenibles, el au- tocultivo, la permacultura y la seguridad alimentaria, entendiendo su importancia para la salud y el ambiente.",
+                "indicator": "Indicador oficial evaluable para [CS.3.3.17].",
+                "insertions": [
+                  "EDS",
+                  "EVR"
+                ]
+              },
+              {
+                "code": "CS.3.3.9",
+                "description": "Destacar y analizar la existencia y el funcionamiento de las organizaciones sociales más representativas de la socie- dad ecuatoriana.",
+                "indicator": "Indicador oficial evaluable para [CS.3.3.9].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-arte",
+        "name": "Educación Cultural y Artística",
+        "topics": [
+          {
+            "id": "media-arte-bloque",
+            "name": "Expresión Artística y Patrimonio",
+            "dcds": [
+              {
+                "code": "ECA.3.1.1",
+                "description": "Representar momentos o si- tuaciones que hayan sido relevantes en la historia personal de cada estudiante, a través de una palabra tratada de forma expresiva (escrita sobre papel, sobre arci- lla a gran tamaño, en miniatura o en color, etc.), un dibujo o una fotografía.",
+                "indicator": "Indicador oficial evaluable para [ECA.3.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.3.1.10",
+                "description": "Describir las creaciones de grupos musicales que utilizan instrumen- tos creados con materiales naturales y objetos de uso cotidiano o de desecho (por ejemplo, The Vegetable Orchestra; Les Luthiers; la Orquesta de Instrumentos Reciclados de Cateura, en Paraguay; Xavi Lozano; Junk Music Band; Percusionando, en Ecuador, Taller La Bola).",
+                "indicator": "Indicador oficial evaluable para [ECA.3.1.10].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "ECA.3.1.12",
+                "description": "Crear documentos sencillos (informes, catálogos, etc.) con información sobre los textiles del país, como resultado de un proceso de búsqueda de información en libros e Internet.",
+                "indicator": "Indicador oficial evaluable para [ECA.3.1.12].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.3.2.14",
+                "description": "Escuchar piezas de música descriptiva o programática valiéndose de imágenes o videos que ayuden a seguir el transcurso del relato.",
+                "indicator": "Indicador oficial evaluable para [ECA.3.2.14].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.3.3.3",
+                "description": "Seleccionar fragmentos de música popular o académica que evoquen acontecimientos u ocasiones especiales (cumpleaños, bodas, primeras comunio- nes, bautizos, comidas de Navidad, va- caciones, etc.), y usarlos como ambienta- ción sonora para acompañar lo mostrado en un mural fotográfico.",
+                "indicator": "Indicador oficial evaluable para [ECA.3.3.3].",
+                "insertions": [
+                  "EDS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-matematica",
+        "name": "Matemática",
+        "topics": [
+          {
+            "id": "media-matematica-bloque",
+            "name": "Álgebra, Geometría y Estadística",
+            "dcds": [
+              {
+                "code": "M.3.1.1",
+                "description": "Generar sucesiones con sumas, restas, multiplicaciones y divisiones, con números naturales, a partir de ejercicios numéricos o problemas sencillos.",
+                "indicator": "Indicador oficial evaluable para [M.3.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.3.1.6",
+                "description": "Establecer relaciones de secuen- cia y orden en un conjunto de números naturales de hasta nueve cifras, utilizando material concreto, la semirrecta numérica y simbología matemática (=, >, <).",
+                "indicator": "Indicador oficial evaluable para [M.3.1.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.3.1.18",
+                "description": "Resolver problemas que impli- quen el cálculo del MCM y el MCD.",
+                "indicator": "Indicador oficial evaluable para [M.3.1.18].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.3.1.35",
+                "description": "Reconocer los números deci- males: décimos, centésimos y milésimos, como la expresión decimal de fracciones por medio de la división.",
+                "indicator": "Indicador oficial evaluable para [M.3.1.35].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.3.1.56",
+                "description": "Organizar actividades para re- solver en grupo de trabajo problemas con números decimales en diferentes contex- tos, respetando la diversidad de razona- mientos de sus pares.",
+                "indicator": "Indicador oficial evaluable para [M.3.1.56].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "M.3.2.1",
+                "description": "Reconocer rectas paralelas, se- cantes y secantes perpendiculares en figu- ras geométricas planas.",
+                "indicator": "Indicador oficial evaluable para [M.3.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.3.2.10",
+                "description": "Resolver problemas que impli- quen el cálculo del perímetro de polígonos irregulares.",
+                "indicator": "Indicador oficial evaluable para [M.3.2.10].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-educacion-fisica",
+        "name": "Educación Física",
+        "topics": [
+          {
+            "id": "media-educacion-fisica-bloque",
+            "name": "Prácticas Corporales y Salud",
+            "dcds": [
+              {
+                "code": "EF.3.1.1",
+                "description": "Identificar y diferenciar las ca- racterísticas, proveniencia y objetivos de diferentes tipos de juegos (de relevos, con elementos, cooperativos, acuáticos, po- pulares, en el medio natural, rondas, entre otros) para participar en ellos y recono- cerlos como producción de la cultura.",
+                "indicator": "Indicador oficial evaluable para [EF.3.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.1.6",
+                "description": "Participar en juegos (cooperati- vos, de oposición) de manera segura cui- dando de sí mismo y sus pares, identifican- do las demandas (motoras, conceptuales, actitudinales, entre otras) y lógicas parti- culares para ajustar sus acciones y deci- siones al logro del objetivo de los mismos.",
+                "indicator": "Indicador oficial evaluable para [EF.3.1.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.6.1",
+                "description": "Reconocer los diferentes objeti- vos posibles (recreativo, mejora del des- empeño propio o colectivo, de alto ren- dimiento, entre otros) cuando se realizan prácticas corporales para poder decidir en cuáles elige participar fuera de las ins- tituciones educativas.",
+                "indicator": "Indicador oficial evaluable para [EF.3.6.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.2.6",
+                "description": "Construir y respetar los acuer- dos de seguridad para la realización de las secuencias gimnásticas, destrezas y acrobacias, reconociendo la importancia del cuidado de sí y de sus pares, como in- dispensables.",
+                "indicator": "Indicador oficial evaluable para [EF.3.2.6].",
+                "insertions": [
+                  "EVR"
+                ]
+              },
+              {
+                "code": "EF.3.3.1",
+                "description": "Reconocer y analizar la relación entre las emociones de cada persona y sus modos de participación en diferentes prácticas expresivo-comunicativas, para mejorar su desempeño en ellas.",
+                "indicator": "Indicador oficial evaluable para [EF.3.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.5.3",
+                "description": "Identificar y valorar la necesi- dad de generar espacios de confianza que habiliten la construcción de identidades colectivas, para facilitar el aprendizaje de diferentes prácticas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.3.5.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.4.6",
+                "description": "Identificar semejanzas y dife- rencias entre los juegos modificados/ atléticos y los deportes, en sus caracte- rísticas, objetivos, reglas, la presencia de los mismos en sus contextos y sobre las posibilidades de participación y elección para practicarlos.",
+                "indicator": "Indicador oficial evaluable para [EF.3.4.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.3.6.3",
+                "description": "Reconocer la condición física de partida (capacidades coordinativas y con- dicionales: flexibilidad, velocidad, resisten- cia y fuerza) y mejorarla de manera segura y saludable, en relación a las demandas y objetivos que presentan las diferentes prácticas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.3.6.3].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media-ingles",
+        "name": "Lengua Extranjera (Inglés)",
+        "topics": [
+          {
+            "id": "media-ingles-bloque",
+            "name": "Communication and Literacy",
+            "dcds": [
+              {
+                "code": "EFL.3.1.10",
+                "description": "Recognize and demonstrate an appreciation of some commonalities and distinctions across cultures and groups (di- fferentiated by gender, ability, generations, etc.) including the students’ own,by asking WH- questions and formulating simple, cul- turally aware statements.",
+                "indicator": "Indicador oficial evaluable para [EFL.3.1.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.3.4.1",
+                "description": "Learners can demonstra- te an ability to work in pairs and small groups using level-appropriate verbal and non-verbal communication features and apply selfcorrecting and self-monitoring strate-gies in social and classroom inte- ractions. (J.2., J.3., J.4., I.3.).",
+                "indicator": "Indicador oficial evaluable para [EFL.3.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "superior",
+    "name": "Básica Superior (8.°, 9.° y 10.° EGB)",
+    "subjects": [
+      {
+        "id": "superior-lengua",
+        "name": "Lengua y Literatura",
+        "topics": [
+          {
+            "id": "superior-lengua-bloque",
+            "name": "Lectura, Escritura y Comunicación",
+            "dcds": [
+              {
+                "code": "LL.4.1.1",
+                "description": "Indagar y explicar los aportes de la cultura escrita al desarrollo histórico, social y cultural de la humanidad.",
+                "indicator": "Indicador oficial evaluable para [LL.4.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.4.3.1",
+                "description": "Comparar, bajo",
+                "indicator": "Indicador oficial evaluable para [LL.4.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.4.3.10",
+                "description": "Consultar bases de datos digi- tales y otros recursos de la web, con ca- pacidad para seleccionar fuentes según el propósito de lectura, y valorar la con- fiabilidad e interés o punto de vista de las fuentes escogidas.",
+                "indicator": "Indicador oficial evaluable para [LL.4.3.10].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "LL.4.4.6",
+                "description": "Mejorar la claridad y precisión de diferentes tipos de textos periodísti- cos y académicos mediante la escritura de oraciones compuestas y la utilización de nexos, modificadores, objetos, comple- mentos y signos de puntuación.",
+                "indicator": "Indicador oficial evaluable para [LL.4.4.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.4.5.1",
+                "description": "Interpretar un texto literario desde las características del género al que pertenece.",
+                "indicator": "Indicador oficial evaluable para [LL.4.5.1].",
+                "insertions": [
+                  "EIS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-ciencias-naturales",
+        "name": "Ciencias Naturales",
+        "topics": [
+          {
+            "id": "superior-ciencias-naturales-bloque",
+            "name": "Materia viva y entorno físico",
+            "dcds": [
+              {
+                "code": "CN.4.1.1",
+                "description": "Indagar y explicar las propieda- des de los seres vivos e inferir su impor- tancia para el mantenimiento de la vida en la Tierra.",
+                "indicator": "Indicador oficial evaluable para [CN.4.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.1.8",
+                "description": "Usar modelos y describir la re- producción sexual en los seres vivos y deducir su importancia para la supervi- vencia de la especie.",
+                "indicator": "Indicador oficial evaluable para [CN.4.1.8].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.4.5.8",
+                "description": "Formular hipótesis e investigar en forma documental sobre el funcionamiento de la cadena trófica en el manglar, identifi- car explicaciones consistentes, y aceptar o refutar la hipótesis planteada.",
+                "indicator": "Indicador oficial evaluable para [CN.4.5.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.1.21",
+                "description": "Reconocer los principios bá- sicos de la planificación y construcción sostenible, e identificar las oportunidades para volver su área más sostenible e in- clusiva.",
+                "indicator": "Indicador oficial evaluable para [CN.4.1.21].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.4.1.14",
+                "description": "Indagar y formular hipótesis sobre los procesos y cambios evolutivos en los seres vivos, y deducir as modifi- caciones que se presentan en la descen- dencia como un proceso generador de la diversidad biológica.",
+                "indicator": "Indicador oficial evaluable para [CN.4.1.14].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.4.2.1",
+                "description": "Analizar y explicar las etapas de la reproducción humana, deducir su im- portancia como un mecanismo de perpe- tuación de la especie y argumentar sobre la importancia de la nutrición prenatal y la lactancia como forma de enriquecer la afectividad.",
+                "indicator": "Indicador oficial evaluable para [CN.4.2.1].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CN.4.2.2",
+                "description": "Investigar en forma documental y explicar la evolución de las bacterias y la resistencia a los antibióticos, deducir sus causas y las consecuencias de estas para el ser humano.",
+                "indicator": "Indicador oficial evaluable para [CN.4.2.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.3.5",
+                "description": "Experimentar la aplicación de fuerzas equilibradas sobre un objeto en una superficie horizontal con mínima fric- ción y concluir que la velocidad de movi- miento del objeto no cambia.",
+                "indicator": "Indicador oficial evaluable para [CN.4.3.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.3.18",
+                "description": "Explicar el papel del carbono como elemento base de la química de la vida e identificarlo en las biomoléculas. Establece la importancia del carbono como elemento constitutivo de las biomo- léculas. (Ref.",
+                "indicator": "Indicador oficial evaluable para [CN.4.3.18].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.4.8",
+                "description": "Explicar, con apoyo de modelos, la interacción de los ciclos biogeoquími- cos en la biosfera (litósfera, la hidrósfera y la atmósfera), e inferir su importancia para el mantenimiento del equilibrio eco- lógico y los procesos vitales que tienen lugar en los seres vivos.",
+                "indicator": "Indicador oficial evaluable para [CN.4.4.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.4.16",
+                "description": "Investigar en forma docu- mental y procesar evidencias sobre los movimientos de las placas tectónicas, e inferir sus efectos en los cambios en el clima y en la distribución de los organis- mos.",
+                "indicator": "Indicador oficial evaluable para [CN.4.4.16].",
+                "insertions": [
+                  "EDS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-ciencias-sociales",
+        "name": "Estudios Sociales",
+        "topics": [
+          {
+            "id": "superior-ciencias-sociales-bloque",
+            "name": "Historia, Espacio y Convivencia",
+            "dcds": [
+              {
+                "code": "CS.4.1.1",
+                "description": "Reconocer el estudio de la His- toria como conocimiento esencial para entender nuestro pasado y nuestra iden- tidad y para comprender cómo influyen en el mundo en que vivimos.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.1.21",
+                "description": "Describir la estructura organi- zativa del Tahuantinsuyo y la organización social para reproducirla y participar en ella.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.21].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.1.26",
+                "description": "Exponer la organización y los mecanismos de gobierno y de extracción de riquezas que empleaba el Imperio co- lonial español en América.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.26].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.1.30",
+                "description": "Explicar el avance del capitalis- mo, el crecimiento de la producción ma- nufacturera, la expansión de las ciudades y del intercambio internacional.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.30].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.1.54",
+                "description": "Discutir la pertinencia y validez de los postulados de Mahatma Gandhi en relación con la construcción de una cul- tura de paz y el respeto a los derechos humanos en la contemporaneidad.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.54].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CS.4.1.41",
+                "description": "Revisar el desarrollo del ca- pitalismo en el mundo del siglo XIX, bajo condiciones de avance del imperialismo.",
+                "indicator": "Indicador oficial evaluable para [CS.4.1.41].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.1",
+                "description": "Examinar el proceso de formación de la Tierra, la gestación de los continentes y las sucesivas eras geológicas.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.10",
+                "description": "Relacionar y discutir las acti- vidades productivas del sector primario (agricultura, ganadería, pesca, minería) con los ingresos y calidad de vida de las perso- nas que se dedican a ellas.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.43",
+                "description": "Analizar productos y servicios financieros, comprendiendo sus caracte- rísticas, riesgos y beneficios.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.43].",
+                "insertions": [
+                  "EF",
+                  "EVR"
+                ]
+              },
+              {
+                "code": "CS.4.2.23",
+                "description": "Reconocer la importancia del deporte en la vida nacional, las principa- les disciplinas deportivas que se practi- can y los avances en su infraestructura.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.23].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.29",
+                "description": "Identificar los componentes etarios de la población mundial: niños, niñas, jóvenes y adultos, cotejándolos con datos sobre salud y educación.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.29].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.37",
+                "description": "Identificar las guerras como una de las principales causas de la pobre- za en el mundo.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.37].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.2.49",
+                "description": "Reflexionar sobre sus propias conductas y actitudes en contextos so- ciales y familiares, proponiendo ajustes para promover relaciones más justas y equitativas por razón de edad, movilidad humana, género e intercultralidad. CS.3.11. Discutir los alcances y las dificul- tades de la doble ciudadanía en el Ecuador y el mundo.",
+                "indicator": "Indicador oficial evaluable para [CS.4.2.49].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CS.4.3.6",
+                "description": "Determinar el papel político y social de los medios de comunicación en el Ecuador, y la forma en que cumplen su misión.",
+                "indicator": "Indicador oficial evaluable para [CS.4.3.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.4.3.13",
+                "description": "Reconocer que la existencia de derechos implica deberes y responsabili- dades que tenemos todos como parte de la sociedad. CS. 4.3.15. Analizar la tensión en relación con la vigencia de los derechos humanos, interculturalidad, unidad nacional y globa- lización.",
+                "indicator": "Indicador oficial evaluable para [CS.4.3.13].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "CS.4.3.24",
+                "description": "Analizar el sistema de jus- ticia del país y cómo este incide en el bienestar social, evaluando barreras que enfrentan diferentes grupos sociales en el acceso a la justicia y el ejercicio pleno de derechos.",
+                "indicator": "Indicador oficial evaluable para [CS.4.3.24].",
+                "insertions": [
+                  "EIS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-arte",
+        "name": "Educación Cultural y Artística",
+        "topics": [
+          {
+            "id": "superior-arte-bloque",
+            "name": "Expresión Artística y Patrimonio",
+            "dcds": [
+              {
+                "code": "ECA.4.1.5",
+                "description": "Elaborar una línea de tiempo con las piezas musicales más significati- vas en cada una de las etapas vitales del individuo, y compararla con la de otros compañeros y compañeras, para encon- trar similitudes y diferencias.",
+                "indicator": "Indicador oficial evaluable para [ECA.4.1.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.4.3.2",
+                "description": "Utilizar fuentes impresas y digi- tales parala búsqueda de información sobre mujeres artistas cuyas obras no han recibi- do la consideración que merecen (Artemisa Gentileschi, Camile Claudel, Luisa Roldán, Clara Schumann, Lili Boulanger y mujeres artistas contemporáneas).",
+                "indicator": "Indicador oficial evaluable para [ECA.4.3.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.4.2.7",
+                "description": "Diseñar y realizar una insta- lación colectiva partiendo de la reflexión crítica y creativa sobre el significado, usos, recuerdos o experiencias de un es- pacio de la escuela.",
+                "indicator": "Indicador oficial evaluable para [ECA.4.2.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.4.3.12",
+                "description": "Indagar sobre construcciones que pertenecen al patrimonio artístico y recrear dichos monumentos mediante re- presentaciones en plano (croquis, planos, proyecciones) o en volumen (maquetas), imaginando cómo serían en su origen: completar partes que se han destruido, terminar lo que no se llegó a hacer, recu- perar el color que se ha perdido, etc.",
+                "indicator": "Indicador oficial evaluable para [ECA.4.3.12].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.4.3.4",
+                "description": "Investigar, diseñar y crear una presentación multimedia o un producto audiovisual que muestre los itinerarios de estudio y las salidas profesionales de las distintas especialidades artísticas.",
+                "indicator": "Indicador oficial evaluable para [ECA.4.3.4].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-matematica",
+        "name": "Matemática",
+        "topics": [
+          {
+            "id": "superior-matematica-bloque",
+            "name": "Álgebra, Geometría y Estadística",
+            "dcds": [
+              {
+                "code": "M.4.1.1",
+                "description": "Reconocer los elementos del con- junto de números enteros Z, ejemplifican- do situaciones reales en las que se utili- zan los números enteros negativos.",
+                "indicator": "Indicador oficial evaluable para [M.4.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.1.24",
+                "description": "Operar con polinomios de gra- do ≤2 (adición y producto por escalar) en ejercicios numéricos y algebraicos.",
+                "indicator": "Indicador oficial evaluable para [M.4.1.24].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.1.39",
+                "description": "Representar un intervalo en R de manera algebraica y gráfica, y reco- nocer el intervalo como la solución de una inecuación de primer grado con una incógnita en R.",
+                "indicator": "Indicador oficial evaluable para [M.4.1.39].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.1.48",
+                "description": "Reconocer funciones crecientes y decrecientes a partir de su representa- ción gráfica o tabla de valores.",
+                "indicator": "Indicador oficial evaluable para [M.4.1.48].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.1.57",
+                "description": "Definir y reconocer una función cuadrática de manera algebraica y grá- fica, determinando sus características: dominio, recorrido, monotonía, máximos, mínimos y paridad.",
+                "indicator": "Indicador oficial evaluable para [M.4.1.57].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.2.5",
+                "description": "Definir e identificar figuras geométricas semejantes, de acuerdo a las medidas de los ángulos y a la relación entre las medidas de los lados, determi- nando el factor de escala entre las figu- ras (teorema de Thales).",
+                "indicator": "Indicador oficial evaluable para [M.4.2.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.2.15",
+                "description": "Aplicar el teorema de Pitágoras en la resolución de triángulos rectángu- los.",
+                "indicator": "Indicador oficial evaluable para [M.4.2.15].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.4.3.4",
+                "description": "Definir y aplicar la metodología para realizar un estudio estadístico: es- tadística descriptiva.",
+                "indicator": "Indicador oficial evaluable para [M.4.3.4].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-educacion-fisica",
+        "name": "Educación Física",
+        "topics": [
+          {
+            "id": "superior-educacion-fisica-bloque",
+            "name": "Prácticas Corporales y Salud",
+            "dcds": [
+              {
+                "code": "EF.4.1.1",
+                "description": "Participar en diferentes catego- rías de juegos (tradicionales, populares, modificados, masivos, expresivos, con elementos, en el medio natural, entre otros) reconociendo el aporte cultural proveniente de sus orígenes, objetivos y lógicas a la identidad nacional.",
+                "indicator": "Indicador oficial evaluable para [EF.4.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.4.6.1",
+                "description": "Reconocer los conocimientos corporales y ejercitaciones necesarias para lograr el objetivo personal propuesto en la participación de la práctica corporal.",
+                "indicator": "Indicador oficial evaluable para [EF.4.6.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.4.2.1",
+                "description": "Diferenciar habilidades motrices básicas (caminar, correr, lanzar y saltar) de ejercicios construidos (acrobacias, posiciones invertidas, destrezas, entre otros) y practicar con diferentes grados de dificultad, realizando los ajustes cor- porales necesarios para poder ejecutarlos de manera segura y placentera.",
+                "indicator": "Indicador oficial evaluable para [EF.4.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.4.5.1",
+                "description": "Tomar decisiones sobre su cuerpo a partir del reconocimiento de su competencia motriz (sus capacidades motoras y habilidades motrices), la cons- trucción de su imagen y esquema corpo- ral y de los vínculos emocionales con las prácticas corporales, en interacción con sus pares durante su participación en prácticas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.4.5.1].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EF.4.3.5",
+                "description": "Reconocer aquellos elementos que favorecen u obstaculizan su partici- pación en las prácticas corporales expre- sivo-comunicativas (confianza, vergüen- za, timidez, respeto, entre otras) y poner en práctica estrategias para mejorar sus intervenciones.",
+                "indicator": "Indicador oficial evaluable para [EF.4.3.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.4.3.7",
+                "description": "Elaborar, comunicar, reproducir e interpretar mensajes en contextos es- cénicos, que vinculen la creación de prác- ticas corporales expresivo-comunicativas (danzas, teatralizaciones, circos, coreo- grafías, kermes, celebración) con saberes de otras áreas, para ser presentados ante un público.",
+                "indicator": "Indicador oficial evaluable para [EF.4.3.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.4.4.3",
+                "description": "Identificar las diferencias entre las reglas en los deportes (institucionaliza- da) y en los juegos (adaptables, modifica- bles, flexibles), para reconocer las posibili- dades de participación y posibles modos de intervención en los mismos.",
+                "indicator": "Indicador oficial evaluable para [EF.4.4.3].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "superior-ingles",
+        "name": "Lengua Extranjera (Inglés)",
+        "topics": [
+          {
+            "id": "superior-ingles-bloque",
+            "name": "Communication and Literacy",
+            "dcds": [
+              {
+                "code": "EFL.4.2.1",
+                "description": "Learners can name similarities and differences between different aspects of cultural groups. Learners can demons- trate socially responsible behaviors at school, online, at home and in the commu- nity, and evaluate their actions by ethical, safety and social standards. (J.3, S.1, I.1)",
+                "indicator": "Indicador oficial evaluable para [EFL.4.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.4.5.1",
+                "description": "Learners can appreciate and show respect for individual and group differences by establishing and maintai- ning healthy and rewarding online and face-to-face interactions. Learners can communicate and cooperate in a respect- ful, empathetic manner. (J.3, S.1, S.4) English as a Foreign Language Area: Curricular Thread 2: Oral communication",
+                "indicator": "Indicador oficial evaluable para [EFL.4.5.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bgu",
+    "name": "Bachillerato General Unificado (1.°, 2.° y 3.° BGU)",
+    "subjects": [
+      {
+        "id": "bgu-lengua",
+        "name": "Lengua y Literatura",
+        "topics": [
+          {
+            "id": "bgu-lengua-bloque",
+            "name": "Lectura, Escritura y Comunicación",
+            "dcds": [
+              {
+                "code": "LL.5.1.1",
+                "description": "Indagar sobre las transformacio- nes y las tendencias actuales y futuras de la evolución de la cultura escrita en la era digital.",
+                "indicator": "Indicador oficial evaluable para [LL.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.5.3.1",
+                "description": "Valorar el contenido explícito de dos o más textos al identificar contradiccio- nes, ambigüedades y falacias.",
+                "indicator": "Indicador oficial evaluable para [LL.5.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.5.4.1",
+                "description": "Construir un texto argumentati- vo, seleccionando el tema y formulando la tesis.",
+                "indicator": "Indicador oficial evaluable para [LL.5.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "LL.5.5.1",
+                "description": "Ubicar cronológicamente los tex- tos más representativos de la literatura de Grecia y Roma, y examinar críticamente las bases de la cultura occidental.",
+                "indicator": "Indicador oficial evaluable para [LL.5.5.1].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-biologia",
+        "name": "Biología",
+        "topics": [
+          {
+            "id": "bgu-biologia-bloque",
+            "name": "Células, Genética y Biodiversidad",
+            "dcds": [
+              {
+                "code": "CN.B.5.1.1",
+                "description": "Indagar y analizar la teoría de la abiogénesis que explica el origen de la vida, e interpretar las distintas evidencias científicas.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.B.5.2.1",
+                "description": "Analizar las hipótesis sobre la evolución de las células procariotas y eucariotas basadas en la teoría de la en- dosimbiosis, y establecer semejanzas y diferencias entre ambos tipos de células.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.B.5.1.19",
+                "description": "Indagar en estudios científicos la biodiversidad del Ecuador, analizar los pa- trones de evolución de las especies nativas y endémicas representativas de los diferentes ecosistemas, y explicar su megadiversidad.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.1.19].",
+                "insertions": [
+                  "EIS",
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.B.5.1.25",
+                "description": "Debatir sobre los bene- ficios del uso del transporte público y compartido, considerando los impactos ambientales enfocados en el desarrollo sostenible.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.1.25].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.B.5.2.5",
+                "description": "Analizar la acción enzimática en los procesos metabólicos a nivel celular y evidenciar experimentalmente la influen- cia de diversos factores en la velocidad de las reacciones.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.2.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.B.5.4.5",
+                "description": "Usar modelos y describir los sistemas circulatorio y respiratorio en el ser humano, y establecer la relación funcional entre ellos, la cual mantiene el equilibrio homeostático.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.4.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.B.5.4.6",
+                "description": "Indagar en diversas fuentes y sintetizar información sobre las enferme- dades causadas por el consumo de tabaco, la falta de ejercicio, la exposición a conta- minantes ambientales y a alimentos conta- minados, y proponer medidas preventivas y la práctica de buenos hábitos.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.4.6].",
+                "insertions": [
+                  "EDS",
+                  "EF"
+                ]
+              },
+              {
+                "code": "CN.B.5.5.13",
+                "description": "Evaluar las consecuencias sociales y ambientales de la aplicación de biotecnologías como la ingeniería genética y propone con otras personas de su edad soluciones a problemas locales.",
+                "indicator": "Indicador oficial evaluable para [CN.B.5.5.13].",
+                "insertions": [
+                  "EDS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-quimica",
+        "name": "Química",
+        "topics": [
+          {
+            "id": "bgu-quimica-bloque",
+            "name": "Materia, Átomos y Enlaces",
+            "dcds": [
+              {
+                "code": "CN.Q.5.1.1",
+                "description": "Analizar y clasificar las propie- dades de los gases que se generan en la industria y aquellos que son más comunes en la vida y que inciden en la salud y el ambiente.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.1.1].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.1.11",
+                "description": "Establecer y diferenciar las fuer- zas intermoleculares partiendo de la des- cripción del puente de hidrógeno, fuerzas de London y de Van der Walls, y dipolo-dipolo.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.1.11].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.2.7",
+                "description": "Examinar y clasificar la com- posición, formulación y nomenclatura de los hidruros, diferenciar los metálicos de los no metálicos y estos últimos de los ácidos hidrácidos, resaltando las diferen- tes propiedades.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.2.7].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.1.29",
+                "description": "Comparar y examinar las reacciones reversibles e irreversibles en función del equilibrio químico y la diferen- ciación del tipo de electrolitos que cons- tituyen los compuestos químicos reaccio- nantes y los productos.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.1.29].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.1.21",
+                "description": "Explicar e interpretar la estruc- tura de los compuestos aromáticos, parti- cularmente del benceno, desde el análisis de su estructura molecular, propiedades físicas y comportamiento químico.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.1.21].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.2.11",
+                "description": "Utilizar el número de Avoga- dro en la determinación de la masa molar de varios elementos y compuestos quími- cos y establecer la diferencia con la masa de un átomo y una molécula.",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.2.11].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.Q.5.3.10",
+                "description": "Examinar y explicar la impor- tancia de los alcoholes, aldehídos, cetonas y éteres en la industria, en la medicina y la vida diaria (solventes como la acetona, el alcohol, algunos éteres como antisépticos como el peligro de su empleo no apropiado (inciden- cia del alcohol en la química cerebral, muerte por ingestión del alcohol metílico).",
+                "indicator": "Indicador oficial evaluable para [CN.Q.5.3.10].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-fisica",
+        "name": "Física",
+        "topics": [
+          {
+            "id": "bgu-fisica-bloque",
+            "name": "Movimiento, Fuerzas y Energía",
+            "dcds": [
+              {
+                "code": "CN.F.5.1.1",
+                "description": "Determinar la posición y el desplazamiento de un objeto (considera- do puntual) que se mueve, a lo largo de una trayectoria rectilínea, en un sistema de referencia establecida y sistematizar información relacionada al cambio de po- sición en función del tiempo, como resul- tado de la observación de movimiento de un objeto y el empleo de tablas y gráficas.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.12",
+                "description": "Analizar gráficamente que, en el caso particular de que la trayectoria sea un círculo, la aceleración normal se llama aceleración central (centrípeta) y determi- nar que en el movimiento circular solo se necesita el ángulo (medido en radianes) entre la posición del objeto y una dirección de referencia, mediante el análisis gráfico de un punto situado en un objeto que gira alrededor de un eje.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.12].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.17",
+                "description": "Explicar la segunda ley de Newton, mediante la relación entre las magnitudes: aceleración y fuerza que actúan sobre un objeto y su masa, me- diante experimentaciones formales o no formales.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.17].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.25",
+                "description": "Explicar que la intensidad del campo gravitatorio de un planeta determi- na la fuerza del peso de un objeto de masa (m), para establecer que el peso puede va- riar, pero la masa es la misma.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.25].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.31",
+                "description": "Determinar que la fuerza que ejerce un resorte es proporcional a la de- formación que experimenta y está dirigi- da hacia la posición de equilibrio (ley de Hooke), mediante prácticas experimentales y el análisis de su modelo matemático y de la característica de cada resorte.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.31].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.41",
+                "description": "Analizar y explicar los apa- ratos o dispositivos que tienen la carac- terística de separar cargas eléctricas, mediante la descripción de objetos de uso cotidiano.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.41].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.49",
+                "description": "Describir la relación entre diferencia de potencial (voltaje), corrien- te y resistencia eléctrica, la ley de Ohm, mediante la comprobación de que la co- rriente en un conductor es proporcional al voltaje aplicado (donde R es la constante de proporcionalidad).",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.1.49].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.2.1",
+                "description": "Definir el trabajo mecánico a partir del análisis de la acción de una fuerza constante aplicada a un objeto que se desplaza en forma rectilínea, conside- rando solo el componente de la fuerza en la dirección del desplazamiento.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.2.10",
+                "description": "Reconocer mediante la ex- perimentación de motores de combus- tión interna y eléctricos que, en sistemas mecánicos, las transferencias y transfor- maciones de la energía siempre causan pérdida de calor hacia el ambiente, redu- ciendo la energía utilizable, considerando que un sistema mecánico no puede ser ciento por ciento eficiente.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.2.10].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "CN.F.5.3.6",
+                "description": "Explicar que la luz exhibe pro- piedades de onda pero también de partí- cula, en función de determinar que no se puede modelar como una onda mecánica porque puede viajar a través del espacio vacío, a una velocidad de aproximada- mente 3x108m/s y explicar las diferentes bandas de longitud de onda en el espectro de onda electromagnético, estableciendo relaciones con las aplicaciones en dispo- sitivos de uso cotidiano.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.3.6].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.4.3",
+                "description": "Indagar sobre el cinturón de Kuiper y la nube de Oort, en función de reconocer que en el Sistema Solar y en sus límites existen otros elementos como asteroides, cometas y meteoritos.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.4.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.F.5.6.5",
+                "description": "Analizar los efectos que tiene la tecnología en la revolución de las indus- trias, con el fin de concienciar que el uso indebido del conocimiento y en especial que la aplicación de leyes físicas genera perjuicios a la sociedad.",
+                "indicator": "Indicador oficial evaluable para [CN.F.5.6.5].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-historia",
+        "name": "Historia",
+        "topics": [
+          {
+            "id": "bgu-historia-bloque",
+            "name": "Historia y Procesos Sociales",
+            "dcds": [
+              {
+                "code": "CS.H.5.1.1",
+                "description": "Contrastar los conceptos de his- toria e historiografía con el fin de diferenciar la realidad de la construcción intelectual.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.1.15",
+                "description": "Determinar las causas de la crisis de la comunidad matriarcal y la irrup- ción del dominio patriarcal en el desarrollo de la humanidad (machismo).",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.1.15].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.28",
+                "description": "Analizar y comparar la situa- ción y los roles de la mujer de los diversos estratos sociales en la Colonia.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.28].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.2.1",
+                "description": "Determinar las causas y con- secuencias de la decadencia y caída del Imperio romano.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.2.13",
+                "description": "Determinar y comprender el ori- gen y los principios fundamentales del Islam.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.2.13].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.2.23",
+                "description": "Reconocer la Ilustración como base intelectual de la modernidad, sus principales representantes y postu- lados.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.2.23].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.1",
+                "description": "Identificar y valorar las produc- ciones intelectuales más significativas de las culturas aborígenes de América Latina precolombina (mayas, aztecas e incas).",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.10",
+                "description": "Examinar el impacto de la Conquista a través del estudio de la imple- mentación de relaciones de explotación y sometimiento de la población aborigen.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.18",
+                "description": "Identificar y evaluar el pro- tagonismo de las potenciasinvolucradas en el tráfico de personas esclavizadas a América Latina.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.18].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.32",
+                "description": "Conceptualizar los términos casta, clase y estamento con el fin de comprender los procesos de lucha y mo- vilidad social.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.32].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.3.38",
+                "description": "Identificar y comprender las diversas oleadas migratorias a América Latina, su procedencia y sus aportes al desarrollo económico y cultural de la re- gión.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.3.38].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.4.5",
+                "description": "Comparar sociedades es- clavistas del Viejo Mundo con formas modernas de esclavitud, en función de determinar la existencia de condiciones que permiten todavía esta forma de ex- plotación humana.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.4.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.4.19",
+                "description": "Conceptualizar los términos pro- teccionismo y librecambismo desde la Economía Política y sus principales representantes.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.4.19].",
+                "insertions": [
+                  "EF"
+                ]
+              },
+              {
+                "code": "CS.H.5.4.33",
+                "description": "Analizar el origen y los prin- cipios de la escuela fisiocrática como re- acción al mercantilismo.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.4.33].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.H.5.4.39",
+                "description": "Analizar el origen y los prin- cipios de la escuela estructuralista como respuesta a la dependencia económica de América Latina.",
+                "indicator": "Indicador oficial evaluable para [CS.H.5.4.39].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-general",
+        "name": "Área Integrada",
+        "topics": [
+          {
+            "id": "bgu-general-bloque",
+            "name": "Desarrollo de Destrezas",
+            "dcds": [
+              {
+                "code": "EC.5.1.1",
+                "description": "Determinar el origen y evolu- ción histórica del concepto “ciudadanía” en la Grecia y la Roma antigua. CS.EC.5.1.2. Determinar el origen y evo- lución histórica del concepto “derechos” a partir de la organización política de la sociedad (polis). CS.EC.5.1.3. Analizar los procesos histó- ricos que propiciaron la Declaración de los Derechos del Hombre y del Ciudadano, mediante el análisis multicausal de los mismos. CS.EC.5.1.4. Discutir los procesos histó- ricos que propiciaron la Declaración de los Derechos de la Mujer y la Ciudadana, mediante el análisis multicausal de los mismos. CS.EC.5.1.5. Determinar la trascendencia de la Declaración Universal de los Dere- chos Humanos, desde la comprensión de su significado político. CS.EC.5.1.7. Identificar y analizar cada una de las diferentes generaciones de dere- chos y el contexto histórico de su surgi- miento. CS.EC.5.1.11. Establecer la relación entre individuo, sociedad y poder político, a par- tir de los derechos universales y desde el estudio de casos (la disidencia política, los desplazados, los refugiados). CS.EC.5.1.13. Analizar los derechos y debe- res de las personas en situación de mo- vilidad humana para promover el respeto a los derechos humanos, la integración social y el acceso equitativo a servicios básicos en contextos de migración, des- plazamiento o refugio. CS.E",
+                "indicator": "Indicador oficial evaluable para [EC.5.1.1].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EC.5.1.10",
+                "description": "Discernir la igualdad como principio generador de opciones y opor- tunidades para todos. CS.EC.5.1.13. Analizar el principio de igualdad natural expresado en otros ám- bitos (educativo, político, económico, so- cial, religioso, etc.), a partir del estudio de casos y de la ejemplificación de la reali- dad ecuatoriana. CS.EC.5.1.14. Reconocer las características de condiciones laborales justas para garan- tizar un entorno de trabajo equitativo y res- petuoso en su lugar de empleo. CS.EC.5.1.6. Reconocer la igualdad natural de los seres humanos y la protección de la vida frente a la arbitrariedad del poder desde el análisis político. CS.EC.5.1.9. Explicar el principio de igual- dad, a través del ejercicio del sufragio universal como condición de participación igualitaria. CS.EC.5.1.12. Analizar la evolución del con- cepto “igualdad natural”, a partir del acce- so al sufragio universal por los diferentes grupos sociales (personas esclavizadas, mujeres, analfabetos, personas privadas de libertad, migrantes, personas con dis- capacidad, grupos minoritarios y/o vulne- rables, etc.) CS.EC.5.1.14. Reconocer y defender sus derechos como ciudadano o ciudadana, demostrando un profundo conocimiento de la legislación vigente y el valor de ejer- cerlos como parte de su autocuidado y crecimiento personal. I.CS.EC.5.2.1. Examina la igualdad natural de los seres humanos, su traducción jurí- dica como base para la protección frente a la arbitrariedad del poder y su expresión en todos los ámbitos. (J.1., J.2., J.3., S.1.) I.CS.E",
+                "indicator": "Indicador oficial evaluable para [EC.5.1.10].",
+                "insertions": [
+                  "CS",
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EC.5.2.1",
+                "description": "Contextualizar el nacimiento de la democracia moderna, considerando los procesos históricos que la alumbraron. CS.EC.5.2.2. Explicar la democracia mo- derna mediante el análisis de su signifi- cado radical: inexistencia de títulos natu- rales para gobernar, como el principio de filiación, el buen nacimiento, el linaje, la riqueza, la edad o la meritocracia. CS.EC.5.2.3. Determinar los parámetros sobre los que se construye el concepto de ciudadanía en la democracia moderna, su concepción y roles, a partir del análisis de las características de esta última. CS.EC.5.2.4. Discutir de manera infor- mada la implicación de los principios de alternabilidad y de la despersonalización del poder como fundamentos de un siste- ma democrático pluralista. CS.EC.5.2.5. Determinar las contradiccio- nes del significado de soberanía del pueblo, considerando la evolución del concepto y sus cambios sustanciales. CS.EC.5.2.10. Analizar la definición de de- mocracia representativa, identificando sus límites y dificultades, considerando la distancia entre gobernantes y gobernados, electores y elegidos, los riesgos de tomar decisiones en nombre del electorado y la ausencia de rendición de cuentas. CS.EC.5.2.13. Examinar la posible comple- mentariedad de la democracia representa- tiva y la democracia deliberativa. CS.EC.5.3.7. Identificar las limitaciones de la democracia, considerando la persistencia de exclusiones sociales, la tendencia a la corrup- ción y el surgimiento de nuevas élites. I.CS.EC.5.3.1. Ejemplifica el origen de la democracia moderna y la alternabilidad, sus contradicciones (soberanía del pueblo y democracia para todos) y sus limitacio- nes (corrupción, persistencia de la exclu- sión social y surgimiento de nuevas élites) y la concepción natural y hereditaria del poder, destacando el significado y rol de la ciudadanía. (J.1., J.3.) I.CS.E",
+                "indicator": "Indicador oficial evaluable para [EC.5.2.1].",
+                "insertions": [
+                  "EVR"
+                ]
+              },
+              {
+                "code": "EC.5.2.6",
+                "description": "Contrastar los derechos ci- viles y los derechos políticos, a partir del análisis de las características particulares de cada uno. CS.EC.5.2.7. Describir los procesos de búsqueda de la legitimidad del poder po- lítico, por medio del análisis de los meca- nismos de legitimación social. CS.EC.5.2.9. Examinar el significado de la re- presentación política, considerando las con- tribuciones de la democracia representativa. CS.EC.5.2.11. Establecer la importancia de la rendición de cuentas y la aplicación de sistemas de control como mecanismos para reforzar y afianzar los sistemas democráti- cos representativos. CS.EC.5.2.12. Definir el principio de de- liberación a partir de sus implicaciones como procedimiento colectivo de toma de decisiones. CS.EC.5.2.14. Evaluar la necesidad de la deliberación como esfera política, conside- rando su aplicabilidad y las dificultades que conlleva la realización del ideal deliberativo. CS.EC.5.2.15. Establecer las ventajas y las limitaciones de la democracia deliberativa, considerando aspectos como la posibilidad de expresión social, la falta de información del público, entre otros. CS.EC.5.2.16. Identificar los mecanismos de deliberación pública, considerando su complejidad y su aplicabilidad. I.CS.EC.5.4.1. Contrasta las característi- cas de los derechos civiles, los derechos políticos y la representación política en la democracia social y en la democracia política. (J.1.,J.3., I.1.) I.CS.EC.5.4.2. Analiza los procesos de legitimidad y representación política, par- tiendo del análisis de la deliberación y la implementación de mecanismos de control para el afianzamiento de los sistemas de- mocráticos representativos. (J.1., J.2.) I.CS.E",
+                "indicator": "Indicador oficial evaluable para [EC.5.2.6].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EC.5.2.18",
+                "description": "Reconocer la democracia como una experiencia social enfocándose en el análisis de sus manifestaciones y ex- presiones en la vida cotidiana y en las prác- ticas ciudadanas comunes. CS.EC.5.2.19. Analizar ejemplos de proce- sos deliberativos en el hogar, la escuela y la comunidad, poniendo énfasis en los mecanismos que los propician, facilitan y/o dificultan. CS.EC.5.2.20. Discutir nuevos mecanis- mos de expresión y prácticas delibera- tivas, considerando las diversas formas de relación entre los ciudadanos en los nuevos espacios (redes sociales, Internet, etc.). CS.EC.5.2.21. Aplicar el diálogo y la delibe- ración como forma de consenso y disenso casos para contribuir a la formación de una cultura de paz. CS.EC.5.2.22. Justificar la importancia del respeto a las normas y señales de tránsito, proponiendo medidas para mejo- rar la seguridad para peatones, personas con discapacidad, movilidad reducida y grupos vulnerables. I.CS.EC.5.5.1. Ejemplifica la democracia como una experiencia social que puede llevarse a cabo en los diferentes espa- cios cotidianos mediante mecanismos de expresión y deliberación como forma de consenso y disenso. (J.1., S.1., S4) I.CS.EC.5.5.2. Argumenta la importancia del cumplimiento de las normas y señales de tránsito promoviendo una cultura de respeto y seguridad vial. (J.3., S.4.)",
+                "indicator": "Indicador oficial evaluable para [EC.5.2.18].",
+                "insertions": [
+                  "CS",
+                  "EVR"
+                ]
+              },
+              {
+                "code": "EC.5.3.6",
+                "description": "Reconocer la democracia como forma paradójica, a partir de su dificultad para concretar las expectativas sociales (igualdad social, movilidad social, autonomía del individuo). CS.EC.5.3.9. Describir los alcances y li- mitaciones de la representación política otorgada a los representantes de la ciu- dadanía, reconociendo el derecho ciuda- dano de exigir la rendición de cuentas y/o la revocatoria del mandato.",
+                "indicator": "Indicador oficial evaluable para [EC.5.3.6].",
+                "insertions": [
+                  "EIS"
+                ]
+              },
+              {
+                "code": "EC.5.4.2",
+                "description": "Identificar y analizar el rol de cada uno de los componentes del Estado: fuerzas armadas, derecho (leyes), tribu- nales de justicia, burocracia, cárceles, aparatos ideológicos (medios de comuni- cación), etc., y su impacto en las distintas clases sociales. CS.EC.5.4.3. Diferenciar Estado, nación y gobierno a través de la identificación de sus funciones específicas y su rol histórico. CS.EC.5.4.12. Explicar los roles que cum- plen las funciones del Estado ecuatoriano a partir del análisis de los mecanismos de ordenamiento social, estructura y esque- ma de funcionamiento. CS.EC.5.4.13. Explicar cómo los ingresos de los gobiernos se utilizan para proveer bienes y servicios públicos, por qué es necesario pagar impuestos, y cómo ciertos servicios están protegidos por leyes o regulaciones de protección al consumidor. CS.EC.5.4.14. Evaluar la influencia de la gestión gubernamental en la desigualdad económica y social. I.CS.EC.5.8.2. Explica cómo los ingresos gubernamentales financian bienes y ser- vicios públicos, la importancia de pagar impuestos, y describe servicios protegi- dos por leyes de protección al consumi- dor. (J.1., J.3.) I.CS.EC.5.8.3. Analiza los factores de la gestión gubernamental que influyen en la desigualdad económica y social, evaluan- do su impacto en la población. (J.1., J.2.)",
+                "indicator": "Indicador oficial evaluable para [EC.5.4.2].",
+                "insertions": [
+                  "EIS",
+                  "EF"
+                ]
+              },
+              {
+                "code": "ECS.F.5.2.10",
+                "description": "Explicar el proceso de forma- ción del pensamiento y la construcción de conceptos y teorías, diferenciándolo de la realidad a que hacen referencia, mediante ejercicios de conceptualización.",
+                "indicator": "Indicador oficial evaluable para [ECS.F.5.2.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EG.5.1.1",
+                "description": "Describir y explicar los conceptos básicos financieros de un emprendimien- to, tales como ingresos, costos, gastos e inversión, punto de equilibrio y sus pro- yecciones futuras como elemento funda- mental para las proyecciones.",
+                "indicator": "Indicador oficial evaluable para [EG.5.1.1].",
+                "insertions": [
+                  "EF"
+                ]
+              },
+              {
+                "code": "EG.5.1.8",
+                "description": "Interpretar las cuentas contables mediante la identificación de los cambios que causan las transacciones en los acti- vos, pasivos y patrimonios, reflejados en la cuenta por partida doble.",
+                "indicator": "Indicador oficial evaluable para [EG.5.1.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EG.5.3.1",
+                "description": "Proponer y definir productos o servicios determinados por necesidades de su entorno.",
+                "indicator": "Indicador oficial evaluable para [EG.5.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EG.5.3.10",
+                "description": "Analizar los delitos financieros existentes, como el robo de identidad, fraudes, estafas, entre otros, para tomar decisiones informadas y precautelar su integridad.",
+                "indicator": "Indicador oficial evaluable para [EG.5.3.10].",
+                "insertions": [
+                  "CS",
+                  "EF"
+                ]
+              },
+              {
+                "code": "EG.5.4.3",
+                "description": "Identificar, valorar e implemen- tar el concepto de responsabilidad social en el desarrollo de emprendimientos como elemento fundamental para la generación de emprendimientos con carácter social.",
+                "indicator": "Indicador oficial evaluable para [EG.5.4.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EG.5.5.9",
+                "description": "Establecer las variables de mer- cado (producto, precio, plaza, promoción y personalización) en el emprendimiento a crearse, que permita satisfacer las ne- cesidades del segmento de mercado se- leccionado. Establece las variables de mercado (pro- ducto, precio, plaza, promoción y persona- lización) para un bien o servicio nuevo que presenta a un segmento de mercado espe- cífico mediante mecanismos de comunica- ción eficaces. (Ref.",
+                "indicator": "Indicador oficial evaluable para [EG.5.5.9].",
+                "insertions": [
+                  "EF"
+                ]
+              },
+              {
+                "code": "EG.5.5.13",
+                "description": "Utilizar hojas electrónicas para realizar las proyecciones utilizando las Tics de manera que se facilite su elabo- ración.",
+                "indicator": "Indicador oficial evaluable para [EG.5.5.13].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-filosofia",
+        "name": "Filosofía",
+        "topics": [
+          {
+            "id": "bgu-filosofia-bloque",
+            "name": "Lógica, Epistemología y Ética",
+            "dcds": [
+              {
+                "code": "CS.F.5.1.2",
+                "description": "Analizar, comprender y valorar la compleji- dad histórica del pensamiento latinoamericano en su re- lación con otras formas de filosofar y pensar la realidad, a través de su imbricación con las urgencias vitales de su historia, para comprender la razón de ser de su “nosotros” pensante, a diferencia del “yo” pensante occidental. O.CS.F.5.1.3. Comprender la dimensión espacial desde los conceptos filosóficos de Cosmos y Armonía, y las construcciones intelectuales de los pueblos ancestrales en el afán de reivindicar una comprensión integral y al- ternativa. O.CS.F.5.1.4. Interpretar las experiencias humanas por medio del análisis de las dimensiones ética, estética y política, la felicidad y el placer, para examinar y distinguir los principios y las implicaciones que se anudan en ellas en la vida cotidiana y en los grandes proyectos históricos. O.CS.F.5.1.5. Conocer y aplicar las reglas de la argumen- tación lógica para validar razonamientos que contribu- yan al desarrollo de la argumentación, la deliberación y la persuasión, en función de una forma democrática de comunicación. Área del conocimiento/asignatura: Ciencias Sociales/Filosofía Área del conocimiento/asignatura: Ciencias Sociales/Educación para la ciudadanía",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.1.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.1.1",
+                "description": "Comprender el origen del pen- samiento filosófico a partir de la crítica al pensamiento mítico mediante la reflexión en torno a problemas concretos.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.1.10",
+                "description": "Establecer la importancia de la persuasión como base de la delibera- ción en el ejercicio de la ciudadanía.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.1.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.2.13",
+                "description": "Distinguir las características del ensayo latinoamericano y del tratado europeo en textos representativos.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.2.13].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.3.5",
+                "description": "Identificar los métodos de comprensión de la realidad en la filoso- fía latinoamericana a partir sus temas y sus formas de tratamiento de conceptos como libertad y liberación.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.3.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.4.4",
+                "description": "Comprender la visión occiden- tal y cristiana sobre la virtud y el pecado, mediante el estudio de creencias manifies- tas en el medio ecuatoriano.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.4.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.F.5.4.12",
+                "description": "Discutir el tratamiento del pla- cer en Epicuro y Onfray como representan- tes de distintas épocas históricas, median- te la elaboración de argumentos basados en lecturas seleccionadas. CS.",
+                "indicator": "Indicador oficial evaluable para [CS.F.5.4.12].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-matematica",
+        "name": "Matemática",
+        "topics": [
+          {
+            "id": "bgu-matematica-bloque",
+            "name": "Álgebra, Geometría y Estadística",
+            "dcds": [
+              {
+                "code": "M.5.1.1",
+                "description": "Aplicar las propiedades algebrai- cas de los números reales en la resolución de productos notables y en la factoriza- ción de expresiones algebraicas.",
+                "indicator": "Indicador oficial evaluable para [M.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.1.11",
+                "description": "Resolver sistemas de dos ecua- ciones lineales con tres incógnitas (ningu- na solución, solución única, infinitas so- luciones), de manera analítica, utilizando los métodos de sustitución o eliminación gaussiana.",
+                "indicator": "Indicador oficial evaluable para [M.5.1.11].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.1.20",
+                "description": "Graficar y analizar el dominio, el recorrido, la monotonía, ceros, extremos y paridad de las diferentes funciones reales (función afín a trozos, función potencia en- tera negativa con n=-1, -2, función raíz cua- drada, función valor absoluto de la función afín) utilizando TIC.",
+                "indicator": "Indicador oficial evaluable para [M.5.1.20].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.1.29",
+                "description": "Identificar la intersección gráfi- ca de dos parábolas como solución de un sistema de dos ecuaciones de segundo grado con dos incógnitas.",
+                "indicator": "Indicador oficial evaluable para [M.5.1.29].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.1.58",
+                "description": "Emplear progresiones aritméti- cas, geométricas y sumas parciales finitas de sucesiones numéricas en el plantea- miento y resolución de problemas de dife- rentes ámbitos.",
+                "indicator": "Indicador oficial evaluable para [M.5.1.58].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.2.1",
+                "description": "Graficar vectores en el plano (coordenadas) identificando sus carac- terísticas: dirección, sentido y longitud o norma.",
+                "indicator": "Indicador oficial evaluable para [M.5.2.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "M.5.2.26",
+                "description": "Realizar un proceso de solución gráfica y analítica del problema de pro- gramación lineal graficando las inecua- ciones lineales, determinando los puntos extremos del conjunto de soluciones fac- tibles, y encontrar la solución óptima.",
+                "indicator": "Indicador oficial evaluable para [M.5.2.26].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-arte",
+        "name": "Educación Cultural y Artística",
+        "topics": [
+          {
+            "id": "bgu-arte-bloque",
+            "name": "Expresión Artística y Patrimonio",
+            "dcds": [
+              {
+                "code": "ECA.5.1.10",
+                "description": "Explorar su propia identidad, re- conociendo sus fortalezas, debilidades, va- lores y metas a través de la automotivación al buscar oportunidades de crecimiento personal para gestionar sus emociones y tomar decisiones conscientes.",
+                "indicator": "Indicador oficial evaluable para [ECA.5.1.10].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.5.3.9",
+                "description": "Buscar información sobre distintas formas de expresión en el arte contemporáneo (arte de acción, body art, instalaciones, happening, video arte, ac- ción poética, performance, etc.) y elaborar una presentación o cartel (impreso o digi- tal) que reúna los datos más importantes y algunas imágenes o videos ilustrativos.",
+                "indicator": "Indicador oficial evaluable para [ECA.5.3.9].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "ECA.5.1.7",
+                "description": "Identificar un ámbito o forma de expresión artística de interés (cerá- mica, joyería, mimo, percusión corporal, video arte, etc.), utilizar recursos para el autoaprendizaje (libros, videos, aprendi- zaje entre pares, consulta a especialistas) y aplicar los conocimientos y habilidades adquiridos en la creación de un pequeño proyecto o producto artístico.",
+                "indicator": "Indicador oficial evaluable para [ECA.5.1.7].",
+                "insertions": [
+                  "EDS"
+                ]
+              },
+              {
+                "code": "ECA.5.2.6",
+                "description": "Participar en las distintas fases del proceso creativo (identificar un tema, investigar, explorar opciones, seleccionar y desarrollar ideas, recibir críticas, revisar y perfeccionar, interpre- tar o exponer), crear una obra original (de danza, música, escultura, pintura, cine, etc.), presentarla y debatir los resultados con la audiencia, con un artista invitado, un crítico u otro especialista.",
+                "indicator": "Indicador oficial evaluable para [ECA.5.2.6].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-educacion-fisica",
+        "name": "Educación Física",
+        "topics": [
+          {
+            "id": "bgu-educacion-fisica-bloque",
+            "name": "Prácticas Corporales y Salud",
+            "dcds": [
+              {
+                "code": "EF.5.1.1",
+                "description": "Reconocer a los juegos como manifestaciones constantes en la his- toria del hombre y relacionarlas con sus contextos de origen, su cultura específica y los sentidos y significados que le per- miten a sus participantes convertirlos en una posible práctica recreativa.",
+                "indicator": "Indicador oficial evaluable para [EF.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.6.4",
+                "description": "Reconocer la importancia de las diferencias individuales durante la parti- cipación en diferentes prácticas corpora- les, para identificar las maneras más sa- ludables de alcanzar objetivos personales.",
+                "indicator": "Indicador oficial evaluable para [EF.5.6.4].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.5.3",
+                "description": "Reconocer percepciones y sen- saciones favorecedoras y obstaculizado- ras del deseo de moverse (dolor, fatiga, entusiasmo, placer, entre otras) para to- mar decisiones personales que colaboren con la participación sistemática en prác- ticas corporales.",
+                "indicator": "Indicador oficial evaluable para [EF.5.5.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.3.3",
+                "description": "Identificar los requerimientos (motores, emocionales, cognitivos, entre otros) que presentan diferentes prácticas expresivo-comunicativas y vincularlos con sus características (pasos básicos, música, duración, coreografía), para to- mar decisiones sobre los modos de par- ticipación en ellas según los objetivos individuales y colectivos.",
+                "indicator": "Indicador oficial evaluable para [EF.5.3.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.4.1",
+                "description": "Participar en diversas prácticas deportivas (individuales, colectivas, abier- tas, cerradas, de contacto, entre otras) reconociendo sus diferencias según los ámbitos en que se practican (recreativo, amateur, federativo, alto rendimiento, en- tre otros), sus objetivos y los modos de al- canzarlos, para poder elegirlas, apropiar- las y continuar practicándolas a lo largo de sus vidas.",
+                "indicator": "Indicador oficial evaluable para [EF.5.4.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.4.8",
+                "description": "Reconocer los valores del juego limpio (en función del respeto a los acuer- dos y reglas) y participar en prácticas deportivas en coherencia con ellos, para transferir esos valores a situaciones co- tidianas.",
+                "indicator": "Indicador oficial evaluable para [EF.5.4.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EF.5.6.8",
+                "description": "Discriminar las acciones ade- cuadas a seguir en caso de siniestros de tránsito mediante simulaciones, asegu- rando una participación segura y efectiva en situaciones de emergencia.",
+                "indicator": "Indicador oficial evaluable para [EF.5.6.8].",
+                "insertions": [
+                  "EVR"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bgu-ingles",
+        "name": "Lengua Extranjera (Inglés)",
+        "topics": [
+          {
+            "id": "bgu-ingles-bloque",
+            "name": "Communication and Literacy",
+            "dcds": [
+              {
+                "code": "EFL.5.1.1",
+                "description": "Display an understanding of the relationship between the practices and perspectives of different cultures by recognizing and sharing cross-cultural experiences and ideas.",
+                "indicator": "Indicador oficial evaluable para [EFL.5.1.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.1.8",
+                "description": "Discover and employ alternative ways of saying things in social and class- room interactions.",
+                "indicator": "Indicador oficial evaluable para [EFL.5.1.8].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.2.3",
+                "description": "Follow main ideas in topics covered in other curricular subjects with the help of visual support, using concepts and vocabulary that have been studied in advance.",
+                "indicator": "Indicador oficial evaluable para [EFL.5.2.3].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.2.11",
+                "description": "Express opinions on abstract topics, such as film and music, and con- crete topics, such as personal experien- ces, while describing one’s reactions to them and others’ opinions.",
+                "indicator": "Indicador oficial evaluable para [EFL.5.2.11].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.3.1",
+                "description": "Find specific predictable infor- mation in short, simple texts in a range of age-and level-appropriate topics. (Exam- ple: biographies, news articles, narratives, memoirs and personal accounts, formal letters and emails, etc.)",
+                "indicator": "Indicador oficial evaluable para [EFL.5.3.1].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.3.5",
+                "description": "Assess, compare and evaluate the quality of written texts and visual pre- sentations using different criteria and ICT tools related to the organization, subject area and purpose of a text. (Examples of text types: editorials, letters to the editor, political speeches, illustrations, charts, advertisements, etc.)",
+                "indicator": "Indicador oficial evaluable para [EFL.5.3.5].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.4.2",
+                "description": "Identify a variety of types and formats of potential resources and the value, purpose and audience of each for use in the educational domain. (Example: audio/video, multimedia, website, data- base, book, thesaurus, scholarly/popular, current/historical, etc.)",
+                "indicator": "Indicador oficial evaluable para [EFL.5.4.2].",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.5.5",
+                "description": "Create original, imaginative stories using appropriate vocabulary and elements of the literature learners have read or heard.",
+                "indicator": "Indicador oficial evaluable para [EFL.5.5.5].",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
